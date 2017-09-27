@@ -26,7 +26,7 @@ while(distinct<n)
 	storecoupon[coupon]=true;
 	}
 }
-return count; 
+return count;
 }
 
 public static int getcoupon(int n)
@@ -34,5 +34,5 @@ public static int getcoupon(int n)
 
 return (int)(Math.random()*n);
 }
-
+//hello this is subbu
 }
